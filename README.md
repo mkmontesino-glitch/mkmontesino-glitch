@@ -33,6 +33,7 @@ Salutations, I'm Maria, like Shadow's sister name, I am from Brazil, I love doin
 
 ## My socials:
 Discord: dokja_27713
+
 Linkedin: https://www.linkedin.com/in/maria-karla-montesino-negrin-944066439/
 
 <!--
