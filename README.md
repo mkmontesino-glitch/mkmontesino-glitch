@@ -3,19 +3,33 @@
 (Animation incoming)
 
 
-# HELLO WORD
+# HELLO WORD("printf);
 
 ## Welcome to my README :)
+
+Salutations, I'm Maria, like Shadow's sister name, I am from Brazil, I love doing a lot of bullshit and I hope you like my profile!
 
 ## Code languages I know:
 - C
 - Basic Python
 
 ## Things I do:
-- Animation
+- Animate
 - Code
-- Math
-- Being a nerd
+- Make math
+- Being a HUGE nerd
+
+## My fandoms:
+- Sonic The Hedgehog
+- Sherlock(BBC)
+- Supernatural
+- Breaking Bad
+- Better Call Saul
+- Saiki Kusuo
+- Dr Stone
+- Apotechary Diaries
+- Mindless Self Indulgence
+- Mob Pyshco 100
 
 ## My socials:
 Discord: dokja_27713
