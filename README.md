@@ -1,22 +1,23 @@
+<img width="480" height="320" alt="Dvd Screensaver Loading Error GIF" src="https://github.com/user-attachments/assets/566e9008-ee8b-4a27-b85c-abffcb9426e3" />
+
+(Animation incoming)
 
 
-https://github.com/user-attachments/assets/f4ab124b-0acb-4cdf-93e2-81b171362ffa
+# HELLO WORD
 
-## HELLO WORD
+## Welcome to my README :)
 
-# Welcome to my README :)
-
-#Code languages I know:
+## Code languages I know:
 - C
 - Basic Python
 
-#Things I do:
+## Things I do:
 - Animation
 - Code
 - Math
 - Being a nerd
 
-#My socials:
+## My socials:
 Discord: dokja_27713
 Linkedin: https://www.linkedin.com/in/maria-karla-montesino-negrin-944066439/
 
