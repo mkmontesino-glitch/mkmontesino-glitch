@@ -2,9 +2,23 @@
 
 https://github.com/user-attachments/assets/f4ab124b-0acb-4cdf-93e2-81b171362ffa
 
-## Hi there 👋
+## HELLO WORD
 
-printf("Hello word");
+# Welcome to my README :)
+
+#Code languages I know:
+- C
+- Basic Python
+
+#Things I do:
+- Animation
+- Code
+- Math
+- Being a nerd
+
+#My socials:
+Discord: dokja_27713
+Linkedin: https://www.linkedin.com/in/maria-karla-montesino-negrin-944066439/
 
 <!--
 **mkmontesino-glitch/mkmontesino-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
